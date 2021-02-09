@@ -8,5 +8,6 @@ public class Hello{
         int b = in.nextInt();
         in.close();
         System.out.println(a + b);
+        ArrayList<Integer>list = new ArrayList<>();
     }
 }
